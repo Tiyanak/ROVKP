@@ -1,0 +1,5 @@
+/home/kpripuzic/JavaProjects/HadoopProjects/SequentialExample/src/main/java/hr/fer/tel/rovkp/topic6/example1/SequentialExample.java
+/home/kpripuzic/JavaProjects/HadoopProjects/SequentialExample/src/main/java/hr/fer/tel/rovkp/topic6/example1/CountAverageTuple.java
+/home/kpripuzic/JavaProjects/HadoopProjects/SequentialExample/src/main/java/hr/fer/tel/rovkp/topic6/example1/AverageDistanceMapper.java
+/home/kpripuzic/JavaProjects/HadoopProjects/SequentialExample/src/main/java/hr/fer/tel/rovkp/topic6/example1/AverageDistanceReducer.java
+/home/kpripuzic/JavaProjects/HadoopProjects/SequentialExample/src/main/java/hr/fer/tel/rovkp/topic6/example1/DEBSFullRecordParser.java
